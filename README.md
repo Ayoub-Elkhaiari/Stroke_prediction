@@ -1,7 +1,7 @@
 # Stroke Prediction using TensorFlow and PyTorch
 
 ## Project Overview
-This project aims to predict the likelihood of a stroke using machine learning techniques. We implement and compare different approaches using TensorFlow and PyTorch, including a feedforward neural network and Google's TabNet architecture. The project showcases advanced feature engineering, data balancing techniques, and the application of state-of-the-art machine learning models.
+This project aims to predict the likelihood of a stroke using machine learning techniques. We implement and compare different approaches using TensorFlow and PyTorch, including a feedforward neural network and Google's TabNet architecture. The project showcases advanced feature engineering, data balancing techniques, and the application of state-of-the-art Deep learning models.
 
 ## Features
 - Comprehensive feature engineering
