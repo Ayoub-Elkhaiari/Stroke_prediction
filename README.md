@@ -41,7 +41,7 @@ the famous stroke kaggle dataset : https://www.kaggle.com/datasets/fedesoriano/s
 ### PyTorch TabNet
 - Utilizes the encoder part in attentive transformer
 - Implements feature transformer for enhanced prediction
-- Tabnet classifier link: https://arxiv.org/pdf/1908.07442
+- Tabnet research paper link: https://arxiv.org/pdf/1908.07442
 - i used just the encoder part to make predections :
   
   ![Screenshot 2024-09-18 205329](https://github.com/user-attachments/assets/7ca654e6-9b2b-4520-b9a0-3dbe8a3cb856)
